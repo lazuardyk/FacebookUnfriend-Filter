@@ -1,5 +1,5 @@
 # FacebookUnfriend-Filter
-Unfriend your friends facebook by filtering words
+Unfriend your facebook friends by filtering words
 
 ## How to Use
 - Clone/download this repository.
